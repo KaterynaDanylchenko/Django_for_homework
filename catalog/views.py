@@ -5,7 +5,7 @@ from django.views import generic
 
 from .models import Choice, Question
 
-from .models import Choice, Question
+
 
 
 class IndexView(generic.ListView):
